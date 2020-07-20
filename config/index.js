@@ -1,5 +1,5 @@
-import { devConfig } from './/dev.configs';
-import { prodConfig } from './/prod.configs';
+import { devConfig } from './dev.configs';
+import { prodConfig } from './prod.configs';
 
 export {
   devConfig,
